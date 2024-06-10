@@ -1,7 +1,7 @@
-package com.jackfordtech.waterwatcher.service;
+package com.jackfordtech.waterwatcher.soilreading.service;
 
-import com.jackfordtech.waterwatcher.dao.SoilReading;
-import com.jackfordtech.waterwatcher.dao.SoilReadingDao;
+import com.jackfordtech.waterwatcher.soilreading.dao.SoilReading;
+import com.jackfordtech.waterwatcher.soilreading.dao.SoilReadingDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

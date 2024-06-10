@@ -1,4 +1,4 @@
-package com.jackfordtech.waterwatcher.dao;
+package com.jackfordtech.waterwatcher.soilreading.dao;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.lang.NonNull;

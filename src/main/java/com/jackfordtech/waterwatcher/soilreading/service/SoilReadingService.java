@@ -1,6 +1,6 @@
-package com.jackfordtech.waterwatcher.service;
+package com.jackfordtech.waterwatcher.soilreading.service;
 
-import com.jackfordtech.waterwatcher.dao.SoilReading;
+import com.jackfordtech.waterwatcher.soilreading.dao.SoilReading;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

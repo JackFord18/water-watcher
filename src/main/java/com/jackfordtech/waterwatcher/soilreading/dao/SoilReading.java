@@ -1,4 +1,4 @@
-package com.jackfordtech.waterwatcher.dao;
+package com.jackfordtech.waterwatcher.soilreading.dao;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
