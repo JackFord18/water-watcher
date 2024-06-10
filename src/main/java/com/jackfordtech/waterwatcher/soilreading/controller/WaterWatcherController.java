@@ -1,7 +1,7 @@
-package com.jackfordtech.waterwatcher.controller;
+package com.jackfordtech.waterwatcher.soilreading.controller;
 
-import com.jackfordtech.waterwatcher.dao.SoilReading;
-import com.jackfordtech.waterwatcher.service.SoilReadingService;
+import com.jackfordtech.waterwatcher.soilreading.dao.SoilReading;
+import com.jackfordtech.waterwatcher.soilreading.service.SoilReadingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

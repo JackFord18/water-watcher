@@ -1,4 +1,4 @@
-package com.jackfordtech.waterwatcher.dao;
+package com.jackfordtech.waterwatcher.soilreading.dao;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
